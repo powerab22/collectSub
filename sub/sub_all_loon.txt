@@ -1,4 +1,5 @@
 https://sub123.71345.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://rgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=8c2c66ea4f7ab0f8b655f64b8d47b750
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://mc.jiedianxielou.workers.dev
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
