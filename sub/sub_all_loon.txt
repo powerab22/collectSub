@@ -1,4 +1,5 @@
-https://dy.yh13.xyz/api/v1/client/subscribe?token=df3d8f32f47b560edba7dd2e4f48d47e
-https://subscription-gov.lianjiasub.work/api/v1/client/subscribe?token=8eb147c5861c200e33574ab7234dfd40
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://rgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=8c2c66ea4f7ab0f8b655f64b8d47b750
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://nuonuonet.uk/api/v1/client/subscribe?token=96a57e2c509347ae3eacc1d25326b933
+https://1.bethebest.eu.org/api/v1/client/subscribe?token=ef027a5bfc788a6b7eddcc859a078b14
