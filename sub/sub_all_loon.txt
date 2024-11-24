@@ -1,4 +1,6 @@
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://www.catssr.top/api/v1/client/subscribe?token=2f36e87157bf9fc79bce325bc6e804c3
+https://cloudfisher.net/jsk34?token=e5916b09811c8e5071ea910b88c54f37
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
 https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+http://em7.buzz/v3/subscr?id=377bf036b6b24867bf3adbeb24a90326
+https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
