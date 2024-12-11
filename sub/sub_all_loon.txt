@@ -1,6 +1,4 @@
-https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
-https://dl.vfkum.website/api/v1/client/subscribe?token=c8684da353178ab2c34d3a16726c4584
-https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
-https://569cdn.1010520.click/api/v1/client/subscribe?token=2af75f7c27dfa0e5aa175c7c64c01f28
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
+https://mc.jiedianxielou.workers.dev
+https://569cdn.1010520.click/api/v1/client/subscribe?token=d273183250f1dadc7c5bb9a2ebec31b9
+https://submit.xz61.cn:23443/api/v1/client/subscribe?token=d79b9ba05ab0c90ca329b99560cefbda
