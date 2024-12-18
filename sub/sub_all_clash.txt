@@ -1,8 +1,6 @@
-http://1.1596666.xyz/api/v1/client/subscribe?token=6de50127188bebfe62e3b5565097cc88
-https://api.liltjay.ip-ddns.com/TQWMYCWH2D
-https://cat.ikkt.cn/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
-https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
-https://pqjc.site/api/v1/client/subscribe?token=3a7b03ae2964652eedc6afab23a4a86c
-https://pqjc.site/api/v1/client/subscribe?token=efffc74cd3815fad0d7a0584ca04595c&amp;flag=clash
-https://sub.xinyo.vip/api/v1/client/subscribe?token=afab256888ae6487f2287d22b21cb779
-https://subs.pithecia.com/api/v1/client/subscribe?token=eb235ba978096ae510540e8845ea2c70
+https://cdn1715497317.ppgnginx.com/api/v1/client/subscribe?token=51a3824f85c5d02a32a3a8deb8931365
+https://gbtgurl.me/api/v1/client/subscribe?token=01187f2b47200eb4794f3cb803666494
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+http://gbtgurl01.org/api/v1/client/subscribe?token=382aeefac92556ece9266aaf9563b308
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
