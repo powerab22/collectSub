@@ -1,6 +1,4 @@
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
-https://lmaff01.lmspeed.co/api/v1/client/subscribe?token=328c67cf5463a7c51f835e30469912a6
-https://mc.jiedianxielou.workers.dev/
-https://sub.xn--9kqt24a0kz.com/xiaomi?token=12ec3891d9cc325eb57a263e3fd5d418
-https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
+https://mc.jiedianxielou.workers.dev
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://hongxingdl.com/hxvip?token=b2577ee788cce083e4b5c65e7ada95cf
+https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
