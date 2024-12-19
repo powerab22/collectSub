@@ -1,6 +1,5 @@
-https://dy-1.smjcdh.com/api/v1/client/subscribe?token=6b3b00e21caf1d26f6d02435f8417c7c
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
-http://jjz.31465.cfd/api/v1/client/subscribe?token=4c55b1a88f0dd170cf89573cf9ba65be
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=09d09540cc33b58f29a55a0fe686d6a6
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
