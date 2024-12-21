@@ -1,4 +1,5 @@
 https://mc.jiedianxielou.workers.dev
-https://dy-1.smjcdh.com/api/v1/client/subscribe?token=6b3b00e21caf1d26f6d02435f8417c7c
-https://ch.louwangzhiyu.xyz/api/v1/client/subscribe?token=04db78dcb0f6b116580df1baea147a54
-https://cat.ikkt.cn/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
+http://jjz.31465.cfd/api/v1/client/subscribe?token=4c55b1a88f0dd170cf89573cf9ba65be
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz/api/v1/client/subscribe?token=d3065c795c0ea07c325756a2515708d9
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
