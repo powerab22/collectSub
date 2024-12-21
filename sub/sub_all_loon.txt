@@ -1,6 +1,5 @@
-https://mc.jiedianxielou.workers.dev/
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=09d09540cc33b58f29a55a0fe686d6a6
 https://mc.jiedianxielou.workers.dev
-https://yuxi.fanqiev2.work/link/WZiTiXIEk5BO5944?sub=1
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
 http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
-https://www.catssr.host/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
+https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
+https://cat.ikkt.cn/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
