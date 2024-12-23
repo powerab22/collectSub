@@ -1,5 +1,3 @@
-https://api.liltjay.ip-ddns.com/TQWMYCWH2D
-https://jixingnetwork.sbs/api/v1/client/subscribe?token=bb6c1f203b9e3e565125f3b78c611794
-https://aq.louwangzhiyu.xyz/api/v1/client/subscribe?token=60ea712bdae276ada7d4a60bf98992e4
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
+https://mc.jiedianxielou.workers.dev/
+https://pqjc.site/api/v1/client/subscribe?token=efffc74cd3815fad0d7a0584ca04595c&amp;flag=meta
+https://www.kuaidog008.top/api/v1/client/subscribe?token=4ecbd1644bd0dfbd8022c8e0ee60d9e4
