@@ -1,4 +1,5 @@
-https://sbsqwzfgh.santoku.cn/api/v1/client/subscribe?token=849173a65c2056ba456b491af884fd51
-https://sub.tianmaojichang.us.kg/api/v1/client/subscribe?token=79f42f2ab22514dc8fb8b315fad86e4c
-https://submit.xz61.cn:23443/api/v1/client/subscribe?token=836add593609211e0062c535356b5533
-https://www.kuaidog008.top/api/v1/client/subscribe?token=daf0a00c2fb6f609d816597f4c2bda51
+https://api.liltjay.ip-ddns.com/TQWMYCWH2D
+https://jixingnetwork.sbs/api/v1/client/subscribe?token=bb6c1f203b9e3e565125f3b78c611794
+https://aq.louwangzhiyu.xyz/api/v1/client/subscribe?token=60ea712bdae276ada7d4a60bf98992e4
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
