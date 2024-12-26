@@ -1,4 +1,2 @@
-https://api.touhou.center/sub/a817a5effa9865af/clash
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=db8f691dbae4050ab22e5fe68351befb&amp;flag=clash
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://tz.vfkum.website/api/v1/client/subscribe?token=495b8f8540a275a58abc64f93ea737f0
 https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
