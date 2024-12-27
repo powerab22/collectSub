@@ -1,4 +1,6 @@
-https://pqjc.site/api/v1/client/subscribe?token=efffc74cd3815fad0d7a0584ca04595c&amp;flag=clash
-https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
-https://www.antlink.cc/api/v1/client/subscribe?token=cef0a82eedec7c8db2bb2d59f0e69109
-https://www.louwangzhiyu.xyz/api/v1/client/subscribe?token=8d4b6141011de1d68e5aad95d6a61329
+http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
+https://c3.notesync.org/api/v1/client/subscribe?token=70Q8pahCchpkgN1rTSBS9aV3hScI6RoN
+https://hongxingdl.com/hxvip?token=b2577ee788cce083e4b5c65e7ada95cf
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
+https://sub.yslink.cc/api/v1/client/subscribe?token=c9247b94038cf17070932b40bef7509b
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml

@@ -1,3 +1,5 @@
+https://c3.notesync.org/api/v1/client/subscribe?token=70Q8pahCchpkgN1rTSBS9aV3hScI6RoN
 https://a.aikllc.tech/api/v1/client/subscribe?token=9a6b1bf0dd3469fc0fe3bc79a2b0ba92
 https://www.antlink.cc/api/v1/client/subscribe?token=cef0a82eedec7c8db2bb2d59f0e69109
+https://52pokemon.xz61.cn/api/v1/client/subscribe?token=ec8f3d1fceff1bee0bba56e98bc01254
 https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
