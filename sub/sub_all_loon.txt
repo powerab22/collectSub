@@ -1,5 +1,4 @@
-https://c3.notesync.org/api/v1/client/subscribe?token=70Q8pahCchpkgN1rTSBS9aV3hScI6RoN
-https://ch.cukug.website/api/v1/client/subscribe?token=532b5378b3a92070cee1f6aa9cd6f577
-https://xf88j.no-mad-world.club/link/HtJ7xKqcaniqXvgV?clash=3
-https://088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz/api/v1/client/subscribe?token=d3065c795c0ea07c325756a2515708d9
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://www.antlink.cc/api/v1/client/subscribe?token=cef0a82eedec7c8db2bb2d59f0e69109
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
